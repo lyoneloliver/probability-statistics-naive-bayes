@@ -1,4 +1,15 @@
 # probability-statistics-naive-bayes
+
+# probability-statistics-naive-bayes
+
+## Kelompok 11
+
+**Anggota Kelompok:**
+- Indra Wahyu Tirtayasa (5025241108)
+- Jorell Ramos Sinaga (5025241202)
+- Lyonel Oliver Dwiputra (5025241145)
+- Muhammad Abdul Rafi (5025231093)
+
 ## Penjelasan Singkat Mengenai Teori Bayes
 
 Teori Bayes menyediakan pendekatan yang terstruktur untuk membalikkan probabilitas bersyarat (*conditional probabilities*). Teori ini digunakan untuk menghitung peluang terjadinya suatu peristiwa berdasarkan pengetahuan awal tentang kondisi yang mungkin terkait dengan peristiwa tersebut.
