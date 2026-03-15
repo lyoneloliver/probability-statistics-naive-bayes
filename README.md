@@ -1,7 +1,5 @@
 # probability-statistics-naive-bayes
 
-# probability-statistics-naive-bayes
-
 ## Kelompok 11
 
 **Anggota Kelompok:**
